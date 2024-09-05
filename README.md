@@ -6,6 +6,7 @@ The analysis includes various visualizations such as player performance, team st
 The goal is to provide a comprehensive view of cricket data and assist users in making data-driven decisions or gaining insights into the sport.
 
 Features
+
 Interactive Dashboards: Visualize player and team statistics with interactive charts and graphs.
 
 Performance Analysis: Track player performance across different matches and seasons.
